@@ -1,0 +1,2218 @@
+1. TensorF low Operations and Computation Graph are not run in the Session  
+a. True  
+b. False  
+ 
+2. What are the categories of artificial intelligence?  
+a. Action  
+b. Perception  
+c. Cognition  
+d. None of the above  
+ 
+3. Traffic agent can a chieve ______ hour full time/global traffic awareness?  
+a. 7X24  
+b. 5X24  
+c. 5X12  
+d. 7X12  
+ 
+4. The pe rceptron can be displayed in space as __________.  
+a. line  
+b. flat 
+c. hyperplane  
+d. point  
+ 
+5. In Random Forest algorithm, what st rategy is used to determine the outcome of  the 
+ensemble model?  
+a. Cumulative system  
+b. Find the average  
+c. Voting system  
+d. Find the max  
+ 
+6. What are the scenarios or ind ustries for which Python is suit able?  
+a. Artificial Intelligence  
+b. Web development  
+c. Game development  
+d. Hardware Development  
+ 
+7. In a Convolutional Neura l Network, different layers have different functions. Which of the 
+following layers can play the role of dimens ionality reduction?  
+a. Input Layer  
+b. Fully Connected Layer  
+c. Convolutional Layer  
+d. Pooling Layer  
+ 
+8.  Vector is a number.  
+a. True  
+b. False  
+ 
+ 
+9. Which of the following  tensor creation method is not supported in TensorFlow2.0?  
+a. zeros  
+b. fill 
+c. create  
+d. constant  
+ 
+10. What is AI stands for?  
+a. Automatic Intelligence  
+b. Artificial Intelli gence  
+c. Automatic Information  
+d. Artificial Information  
+ 
+11. Wh ich of the following are TensorF low  application scenarios?  
+a. Speech Recognition  
+b. Face Recog nition  
+c. Image Style Changes  
+d. Autopilot  
+ 
+12. In neural networks, which of the following methods is used to update the parameters when 
+training the network to minimize the loss function?  
+a. Forward propagation algorithm  
+b. Pooling calculation  
+c. Convolution calculation  
+d. Backpropagation algorithm  
+ 
+ 
+13. On the premise of ensuring data privacy and security, federated learning utilizes  
+different data sources to cooperatively train models to improve breakthroughs in data 
+bott lenecks.  
+a. TRUE  
+b. FALSE  
+ 
+14. What are the implementation modes of TensorF low? (Multiple Choice)  
+a. Stand -alone mode  
+b. Distributed mode  
+c.  Reverse mode  
+d. Forward mode  
+ 
+15. By the end of the year 2019, the released TensorFlow versions are?  
+a. 1 
+b. 3 
+c. 2 
+d. 0.1  
+ 
+16. In TensorFlow  2.0, the way to view tensor dimensions is?  
+a. dimens  
+b. dtype  
+c. ndim  
+d. device  
+ 
+17. Which module of HUAWEI HiAI is supported by Huawei’s chip?  
+a. HiAI Engine  
+b. HiAI Foundation  
+c. HiAI Framework  
+d. HiAI Service  
+ 
+18. All of the existing versions of PyTorch  support Python 2 and Python 3.  
+a. True  
+b. False  
+ 
+19. It is known that the total parameter of a certain layer of the fully connected neural network 
+is 330 . The number of neurons in the previous layer and this layer may  be?  
+a. 32 with 10  
+b. 10 with 33  
+c. 33 with 10  
+d. 9 with 33  
+ 
+20. What model is not a cyclic neural network?  
+a. RNN  
+b. LSTM  
+c. GBOT  
+d. GRU  
+ 
+21. The current technology application directions of artificial intelligence mainly include  
+a. Natural language processing  
+b. Control System  
+c. Computer vision  
+d. Speech Recognition  
+ 
+22. Which of the following are the characteristics of TensorFlow? (Multiple choice)  
+a. Open source  
+b. Convenience  
+c. Mature  
+d. Flexible  
+ 
+23. Which of the following description of the number of rows and columns of the matrix is 
+correct?  
+a. The number of rows is grea ter than the number of columns  
+b. The number of rows is equal to the number of columns  
+c. The number of rows is less than the number of columns  
+d. The number of rows has no relationship with the number of columns.  
+ 
+ 
+24. Feedforward neural network is a simple neural ne twork, each neuron is arranged 
+hierarchically, it is currently one of the most widely used and fastest growing artificial 
+neural networks. Which of the following statement about feedforward neural networks is 
+correct:  
+ a.  Neurons with computing power are connected to the upper and lower layers  
+ b.  Its input node has computing power  
+ c.  Neurons in the same layer are connected  
+d. Information only along -pass through    
+ 
+25. To v iew Atlas300 (3000) , which command should be used if the accelerator card driver is 
+installed successfully?  
+a. npu -sim info  
+b. npu info  
+c. atlas -driver info  
+d. atlas info  
+ 
+26. MindSpore is bridging the huge gap between industry research of AI technology and 
+application scenarios in the following ways except:  
+a. New ways of collaboration  
+b. New programming language  
+c. New programming paradigm  
+d. New execution mode  
+ 
+27. X. Y are random variables.  C is a constant. W hich of the following description s about the 
+nature of the mathematical expectation is incorrect?  
+a. E(C)  = CA. E(C) = C  
+b. B. E(X+Y) = E(X)+E (Y) 
+c.  C. E(CX) = CE(X)  
+d. D. E(XY) = E(X)E(Y)  
+ 
+28. Which of the following schools does the neural network study belong to?  
+a. Symbolism  
+b. Connectionism  
+c. Behaviourism  
+d. None of the above  
+ 
+29. Artificial intelligence is the research and development of theories, methods and application 
+systems used to simulate, extend and expand human intelligence of a new technological 
+science.  
+a. TRUE  
+b.  FALSE  
+ 
+30. Which method is not supported in TensorFlow  to define variables?  
+a. Random number  
+b. Constant  
+c. Calculated from the initial values of other variables  
+d. Null  
+ 
+31. Which of the following logical architecture s of the processor  is not included in deflated AI?   
+a. DVPP  
+b. GPU  
+c. AI Calculation engine  
+d. Chip system control CPU  
+ 
+32. There are many commercial applications for machine learning services. What are the main 
+business scenarios covered? (Multiple Choice)  
+a.  Financial  product recommendation  
+b.  Predictive maintenance  
+c.  Telecom customer retention  
+d.  Retailer grouping  
+ 
+33. In the process of training the neural network, we use the gradient descent method to 
+continuously update which value, which makes the loss Function minimization?  
+a. Number of samples  
+b. Eigenvalues  
+c. Hyperparameter  
+d. Parameter  
+ 
+34. In the process of deep learning mode l training, what are the common optimizers?  
+a. Adam  
+b. Adagrad  
+c. SGD  
+d. Momentum  
+ 
+35. Python tuples are identified by "()'' and internal elements are separated by ":".  
+a. True  
+b. False  
+ 
+36. Matrix A and matrix B can be added  only when they have the same number of rows and 
+columns .  
+a. True  
+b.  False  
+ 
+37. Which of the following can improve the computational efficiency of the neural network 
+model? ( Multiple  choice)  
+a. TPU  
+b. GPU  
+c. FPGA  
+d. Large -scale distributed cluster  
+ 
+38. "print" in Python 3 must  be used with "()" . 
+a. True  
+b. False  
+ 
+ 
+39. What are the mainstream deep learning open source tools? (Multiple choice)  
+a. TensorFlow  
+b. Caffe  
+c. Torch  
+d.  Theano  
+e.  Scikit..Jeam  
+ 
+40. TensorFlow It is one of the most popular deep learning frameworks.  
+a. TRUE  
+b. FALSE  
+ 
+41. Which of the following is the computing model of TensorFlow?  
+a. Calculation chart  
+b. Tensor  
+c.  Conversation  
+d.  Variable  
+ 
+42. In neural networks, weights are often shared. Which of the following neural networks will 
+share weights?  
+a. Sensor  
+b. Convolutional Neural Network  
+c. Fully connected neural network  
+d. Recurrent neural network  
+ 
+43. Deep learning makes it easy to derive simple mathematical functions from a large amount 
+of high -dimensional data to describe complex decision interfaces.  
+a. True  
+b.  False  
+ 
+44. Traditional machine learning and deep learning are the core technologies of artificial 
+intelligence. There is a slight difference in the engineering process. Which of the following 
+steps can be done automatically in deep learning?  
+a.  Model evaluation  
+b. Feature engineering  
+c. Data cleaning  
+d. Model building  
+ 
+ 
+45. The Python dictionary is identified by "{}", and the internal data consists of the key and its 
+corresponding value.  
+a. True  
+b.  False  
+ 
+46. Convolutional neural networks are more suitable for image recognition  problems than cyclic 
+neural networks.  
+a. True  
+b. False  
+ 
+47. Where is the main foothold of symbolism?  
+a. The foothold is in neuron networks and deep learning.  
+b. The foothold is reasoning, symbolic reasoning and machine reasoning.  
+c. The foothold is perception and action.  
+d. The foothold is behaviour  control, adaptive and evolutionary computing.  
+ 
+48. When training the network, we often encounter many problems. For the problem of 
+gradient vanishing , we can alleviate the problem by choosing which of the following 
+activation functions?  
+a. Softsign function  
+b. Relu function   
+c. tanh function  
+d. Sigmoid function  
+ 
+ 
+49. During application development, which of the following operations is not a typical network 
+definition?  
+a. Network definition  
+b. Network execution  
+c. Knowledge distillation  
+d. Weight initialization  
+ 
+ 
+50. Which of the following description of the validation set is wrong?  
+a.  The verification set can coincide with the test set.  
+b.  The test set can coincide with the training set  
+c.  The subset used to pick hyperparame ters is called a validation set  
+d.  Typically 80% of the training data is used for training and 20% is used for verification.  
+ 
+51. Which of the following functions can numerically stabilize overflow and underflow?  
+a. Softminus function  
+b. Softplus function  
+c. Softmax  function  
+d. Softmin func tion  
+ 
+52. The loss function of logistic regression is the cross -entropy loss function.  
+a. TRUE  
+b. FALSE  
+ 
+53. What are the common clustering algorithms?  
+a. Density clustering  
+b. Hierarchical clustering  
+c. Spectral clustering  
+d. Kmeans  
+ 
+54. Python script executi on mode includes interactive mode and script mode  
+a. True  
+b. False  
+ 
+55. The loss function reflects the error between the target output and actual output of the 
+neural network. The commonly used loss function in deep learning is:  
+a.  Exponential loss function  
+b.  Mean square loss function  
+c.  Log loss function  
+d.  Hinge Loss function  
+ 
+56. The model composed of machine learning algorithms cannot represent the true data 
+distribution function on a theoretical level. Just approach it.  
+a. TRUE  
+b.  FALSE  
+ 
+57. What models  support H UAWEI HiAI ?  
+a. P30  
+b. Mate 20  
+c.  glory V20  
+d. iPhone10  
+ 
+58. The meaning of artificial intelligence was first proposed by a scientist in 1950, and at the 
+same time a test model of machine intelligence was proposed . Who is this scientist?  
+a.Minsky  
+b. Zade  
+c. Turing  
+d. Von Neumann  
+ 
+59. Which of the following services belong to Huawei EI Service family?  
+a. Dialogue robot  
+b. EI Basic services  
+c. Natural language processing  
+d. EI Big data service  
+ 
+60. Which of the following descriptions of the deep  feedforward network is correct?  
+a. Deep feedforward network is a kind of neural network.  
+b. The deep feedforward network has only one hidden layer.  
+c. The unit s on the hidden layer of the deep feedforward network are  countless.  
+d. Deep feedforward network is used to deal with linear problems.  
+ 
+61. What statement is incorrect  about the  relationship between neural networks and deep 
+learning?  
+a.  The concept of deep learning sterns from the study or artificial neural networks.  
+b.  A neural network algorithm with multiple hidde n layers is a deep learning algorithm  
+c.  Single layer neural networks are also a type of deep learning  
+d. Convolutional neural networks are a type of deep learning.  
+ 
+62. What is the performance of artificial intelligence in the stage of perceptual intelligence?  
+a. Machines begin to understand, think and make decisions like humans  
+b. Machines begin to calculate and transmit information just like humans  
+c. The machine starts to understand and understand, make judgments, and take some 
+simple actions  
+ 
+63. In which year was the first introduction of "artificial intelligence"?  
+a. 1946  
+b. 1960  
+c. 1916  
+d. 1956  
+ 
+64. Which of the following is true about unsupervised learning?  
+a.  Unsupervised algorithm only processes "features" and does not process “tags”  
+b.  Dimensionality reduction algorithm is not unsupervised learning  
+c.   K-means algorithm and SVM algorithm belong lo unsupervised learning  
+d.   None of the above  
+ 
+65. Which of the following characteristics belong  to TensorFlow2. 0? 
+a. Introduce Keras interface  
+b. Support static image mechanism  
+c. Support more platforms and more languages  
+d. Continue to be compatible Tensorflowl.x Related modules  
+ 
+66. The training error will continue to decrease as the model complexity increases.  
+a. TRUE  
+b.  FALSE  
+ 
+67. What are the advantages  of HiAI mobile computing platforms?  
+a. Quick source code  
+b. Diverse tool chain  
+c. Complete documentation  
+d. plentiful API  
+ 
+68. Which of the following statement about the matrix is incorrect?  
+a. The arbitrary matrix is multiplied by the unit matrix and will not change.  
+b. The transpose of the symmetric matrix A is also A itself.  
+c. The transpose of the orthogonal matrix A is equal to the inverse of A .  
+d. There is no inverse matrix for the diago nal matrix.  
+ 
+69. In the environment preparation for invoking HUAWEI CLOUD services, which of the 
+following does not require confirmation of installation?  
+a. requests  
+b.setuptools  
+c. websocket -client  
+d. Jieba  
+ 
+70. In the classic convolutional neural network model,  what layer does the Softmax function 
+follow?  
+a. Convolutional layer  
+b. Pooling layer  
+c. Fully connected layer  
+d. All of the above  
+ 
+71. The combination of ModelArts services  and ________  can easily deploy the model to 
+"end"?  
+a. OBS  
+b. OCR  
+c. ECS  
+d. HiLens  
+ 
+72. With a lot of sales data but no labels,  the  compan y want s to identify VIP customer,  which of 
+the following model s is suitable?  
+a. Logistic regression  
+b. SVM  
+c. K-Means  
+d. Hierarchical clustering  
+ 
+73. The Naive Bayes algorithm does not require independent and identical distribution of 
+sample features.  
+a. TRUE  
+b. FALSE  
+ 
+74. Which of the following statements about supervised learning is correct?  
+a. Decision tree is a supervised learning  
+b. Supervised learning cannot use cross -validation for training  
+c. Supervised learning is a rule -based algorithm  
+d. Supervised learning can be trained without labels  
+ 
+75. The commonly used functions for mathematical operati ons in Python are basically in t he 
+math module and the cmath module.  
+a. True  
+b. False  
+ 
+76. The constituent elements of the Python identifier include: numbers, letters, and 
+underscores.  
+a. True  
+b. False  
+ 
+77. Jobs that are repetitive and require weak social skills are the easiest to be replaced by AI. 
+a. TRUE  
+b.  FALSE  
+ 
+78. What are the commonly used loss fu nctions? (Multiple choice)  
+a. Mean variance  
+b. Sigmoid cross entropy  
+c. Soft max cross entropy  
+d. Sparse cross entropy  
+e. Weighted Sigmoid Cross Entropy  
+ 
+79. If the deep learning neural network has the problem of gradient vanishing  or gradient 
+explosion, our common solution s are  
+a. Gradient shear  
+b. Random under sampling   
+c. use Relu Activation function  
+d. Regularization  
+ 
+80. In deep learning tasks, when encountering data imbalance problems, which of the following 
+methods can we use to solve the pro blem?  
+a.  batch deletion  
+b.  Random oversampling  
+c.  Synthetic sampling  
+d.  Random undersampling  
+ 
+81. In deep learning, if the neural network has a large number of layers, the problem of 
+gradient disappearance is more likely to occur. Strictly speaking, in which of the following 
+links does the sample disappearance problem occur?  
+a. Backpropagation update parameters   
+b. Forward the dream and update  
+c. Backpropagation calculation result  
+d. Forward calculation results  
+ 
+82. The number or matrix is stored in the tensor  
+a. True  
+b. False  
+ 
+83. For b agging in ensemble  learning, the relationship between each base learner is?  
+a. Additive relationship  
+b .   No relationship   
+c. The latter model must be built on top of the previous model  
+d.  Independent  
+ 
+84. Generating a confrontation network  (GAN)  is like a game system. The generator generates 
+fake samples, and the discriminator judges whether it is true or false. Our ideal result is?  
+a. The generator produces roughly the same samples  
+b. The discrimi nator efficiently distinguishes the true and false samples generated by the 
+generator  
+c. The discriminator cannot distinguish the true and false samples generated by the 
+generator  
+d. The generator produces different samples  
+ 
+85. What quotation marks can the Python language use? (Multiple Choice)  
+a. Single quotes  
+b. Double quotes  
+c. Three quotes  
+d. Four quotes  
+ 
+86. How does MindSpore handle  the challenge of achieving efficient distributed training for 
+ultra -large -scale models  
+a .Automatic parallel  
+b. Serial  
+c. Manual parallel  
+ 
+87. Reducing the gap between the training error and the test error will result in over -fitting 
+How to prevent over -fitting? (Multiple Choice)  
+a. Cross validation  
+b. Integration method  
+c. Increase regularization  
+d. Feature Engineering  
+ 
+88. Whic h of the following are the characteristics of the Python language? (Multiple choice)  
+a. Explanatory   
+b. Process oriented  
+c .Object -oriented  
+e. Dynamic data type  
+ 
+89. Which of the following functions is not supported by PyTorch?  
+a. Inline keras  
+b. Support dynamic gra ph  
+c. Automatic derivative  
+d. GPU accelerate  
+ 
+90. The optimizer is an important part of training neural networks. Which of the following is not 
+the  purpose of using the optimiser ? 
+a. Speed up algorithm convergence  
+b.  Reduce the difficulty of manual parameter setting  
+c. Avoid overfitting  
+d. Avoid local extremes  
+ 
+91. What are the service categories included in Huawei Cloud El Enterprise Intelligence? 
+(Multiple Choice)  
+a. El visual cognition  
+b. El online games  
+c. El speech semantics  
+d. El industry scene  
+ 
+92. Computer vision is the study of how to make computers "see".  
+a. TRUE  
+b. FALSE  
+ 
+93. Which of the following description s of the normal distribution  is wrong ? 
+a.  In natural phenomena and social phenomena, many random variables obey or 
+approximate a normal distribution.   
+b. The normal distribution lakes the maximum value at the mean  
+c. The larger the standard deviation the steeper the normal distribution  curve  
+d. The larger the standard deviation, the slower the normal distribution curve.  
+ 
+94. Which of the following descriptions a bout Python tuple  is correct? (Multiple choice)  
+a. The difference between a list and a tuple is that the elements of the tuple cannot be   
+duplicate.  
+b. The list uses square brackets and the tuple uses parentheses  
+c. Tuple creation is very simple, just add element s in parentheses and separate them 
+with commas  
+d. When a tuple contains only one element, you need to add a comma after the 
+element  
+ 
+95. The data type used in TensorFlow is?  
+a. Scalar  
+b. Vector  
+c. Tensor  
+d. Matrix  
+ 
+ 
+ 
+96. There are many types of neural networks in deep learni ng. The following neural network  
+information is one -way propagation:  
+a. LSTM  
+b. Convolutional Neural Network  
+c. Recurrent neural network  
+d. GRU  
+ 
+97. Which of the following is not included in keras.metrics of TensorFlow 2.0 ?  
+a. Accuracy  
+b. Recall  
+c. Sum  
+d.  Mean  
+ 
+98. The built -in optimizer s in the keras module of TensorFlow include : 
+a. Adam  
+b.  SGD  
+c.  Adaboost  
+d. Adadelta  
+ 
+99. The  full scenarios  of Huawei AI include public cloud, private c loud, various edge computing, 
+IoT industry terminals, and consumer terminals and other end, edge, and cloud  deployment 
+environments.  
+a. TRUE  
+b. FALSE  
+ 
+100.  Voice recognition refers to the recognition of audio data as text data.  
+a. TRUE  
+b. FALSE  
+ 
+101.  The correlation coefficient. also known as the linear correlation coefficient, is used 
+to measure the linear relationship between two variables, which is a real number greater 
+than zero  
+a. True  
+b. False  
+ 
+102.  In polynomial regression, there is a square term in the formula of  the model, so it is 
+not linear .  
+a. TRUE  
+b.  FALSE  
+ 
+103.  The test error will keep getting smaller as the complexity of the m odel increases.  
+a. TRUE  
+b. FALSE  
+ 
+104.  GAN is a deep learning model and one of the most promising methods for 
+unsupervised learning in complex situation in recent years.  
+a. True  
+b. False  
+ 
+105.  The number of rows and columns of the three matrices A , B and C is 3 rows X 2 
+colu mns, 2 rows X3 columns  and 3 rows X 3 columns  respectively . Which of the following 
+operations is meaningful?  
+a. AC  
+b. BC  
+c. A+B  
+d. AB-BC 
+ 
+106.  Which of the following about the gradient descent is incorrect?  
+a. Random gradient descent is a commonly used one in gradient descent.  
+b. Gradient descent includes random gradient descent and batch gradient descent.  
+c. The gradient descent algorithm i s fast and reliable  
+d. Random gradient descent is one of the commonly used optimization algorithms in deep 
+learning algorithms.  
+ 
+107.  What are the commonly used activation functions? (Multiple Choice)  
+a. sigmoid  
+b. tanh  
+c. relu  
+d. danish  
+ 
+108.  Python is a fully object -oriented language. Which of the following options belong to 
+the Python object? (Multiple Choice)  
+a. Function  
+b. Module  
+c. Number  
+d. Character string  
+ 
+109.  The label predicted by the regression algorithm is?  
+a. Self -deformation  
+b. Discrete  
+c. Strain type  
+d. Continuous  
+ 
+110.  What operating systems support Python? (Multiple Choice)  
+a.  DOS  
+b. Linux  
+c. Mac OS  
+d. Windows  
+ 
+111.  The face detection service will report an error when there is no face in the test 
+image.  
+a. TRUE  
+b. FALSE  
+ 
+112.  HUAWEI HiAI Engine c an easily integrate  multiple AI abilit ies and App s together .  
+a. TRUE  
+b. FALSE  
+ 
+113.  Which of the following does not belong to automatic hyperparameter optimization 
+algorithm?  
+a. Grid search  
+b. Random gradient descent  
+c. Random search  
+d. Model -based hyper parameter optimization  
+ 
+114.  After the data has completed the feature engineering operation, in the process of 
+constructing the model, which of the following options is not a step in the decision tree 
+construction process?  
+a. Pruning  
+b. Feature selection  
+c. Data cleaning  
+d. Decision tree gene ration  
+ 
+115.  What factor  dose not  promote the development of artificial intelligence ? 
+a. Big data  
+b. Computing ability  
+c. Algorithm theory  
+d. Block chain  
+ 
+116.  The following are the descriptio n of the distribution function, distribution law  and 
+density function of  random variables. Which of the following is incorrect?  
+a. Distribution law can only describe the value rule of discrete random variables  
+b. The density function can only describe the value rule of continuous random variables  
+c. Discrete random variables have no distribution function   
+d. Distribution function describes the value rule of random variables  
+ 
+117.  In machine learning, what  is the  input that the model needs to train itself and 
+predict the unknown?  
+a. Manual procedure  
+b. Neural Networks  
+c. Training algorithm  
+d. historical data  
+ 
+118.  The pooling layer in the convolutional neural network can reduce the dimension  of 
+the lower layer input. Common ly used  pooling layers are :  
+a. Minimum strata  
+b. Product pooling layer  
+c. Maximum pooling layer  
+d. Average pooling l ayer  
+ 
+119.  What are  the Python language design philosophy? (Multiple Choice)  
+a. Beautiful  
+b. Expensive  
+c. Explicit  
+d. Simple  
+ 
+120.  Which of the followings are not belong to supervised learning  category ? 
+a. Logistic regression  
+b. Support vector machine  
+c. Decision tree  
+d. Principal component analysis  
+ 
+121.  In the binary  classification process, we can set any category as a positive example.  
+a. TRUE  
+b. FALSE  
+ 
+122.  Which of the following does not belong to long -term memory LSTM (long Short  
+Term Memory) network architecture?  
+a. Memory door  
+b. Forget door  
+c. Input door  
+d. Output door  
+ 
+123.  In May 1997, in the famous "Human -Machine Wars" final , computer defeated 
+Kasparov, the world chess king, with a total score of 3.5 to 2 5. What is this computer 
+called?  
+a. Dark blue  
+b. Dark green  
+c. Ponder  
+d. Blue sky  
+ 
+124.  The continue statement in the Python language is used to jump out of th e current  
+loop and then continue to execute the next loop .  
+a. True  
+b. False  
+ 
+125.  Huawei Cloud El builds enterprise intelligence services based on three -tier services. 
+Which of the  following options does not belong to Layer 3 services?  
+a. Basic platform services  
+b. General domain services  
+c. Industry sector services  
+d. Integration services  
+ 
+126.  Which of the following options is not central to linear algebra?  
+a. Probability theory  
+b. Linear transformation  
+c. Matrix theory  
+d. Vector space  
+ 
+127.  In supervised learning," Those who are near red  are red and those who are near 
+black  are black"  is used to describe which of the following models?  
+a. K-Means  
+b. SVM  
+c. KNN  
+d. Neural Networks  
+ 
+128.  There are a lot of data gener ated during the training of the neural network. What 
+mechanism does TensorFlow use to avoid excessive input data?  
+a. Client  
+b. feed  
+c. placeholder  
+d. fetch  
+ 
+129.  Which of the following methods in TensorFlow 2.0 can be used for tensor merging ?  
+a.  join  
+b. concat  
+c. split  
+d. unstack  
+ 
+130.  Which of the following options belong to Tensorflow concept? (Multiple Choice)  
+a.  Tensor  
+b.  Variables  
+c.  Placeholder  
+d. Operation  
+e. Conversation  
+ 
+131.  Python authors deliberately design very restrictive grammars that make bad 
+programming habits (such as the next line of if statement not indented to the right) not  be 
+compiled . 
+a. True  
+b. False  
+ 
+132.  Which of the following description s about the  number of rows and columns of a 
+determinant is correct?  
+a. The number of rows is greater than the number of columns  
+b. The number of rows is equal lo the number of columns  
+c. The number of rows is less than the number of columns  
+d. The number of rows has no relationship with the number of columns  
+ 
+133.  “From the label led historical data, we can predict that the retail sales of the next 
+quarter will be 20 -30 thousands or 30-40 thousand s". What is the problem type?  
+a.  Regression problem  
+b.  Rule problem  
+c.  Classification problem  
+d.  Clustering problem  
+ 
+134.  HUAWEI CLOUD ModelArts  is a one -stop development platform f or AI . Which of the 
+following functions can Mode lArts support ? 
+a. Data governance  
+b. AI market  
+c. Visual workflow  
+d. Automatic learning  
+ 
+135.  The main application of the Atlas 200 DK Yiteng 310 chip is?  
+a.  Model reasoning  
+b.  Build model  
+c. Training model  
+ 
+ 
+136.  What are the advantages of Python? (Multiple choice)  
+a. Simple  
+b.  Free  
+c.  High -level language  
+d.  Rich library  
+ 
+137.  Accor ding to its development process, what are the three generation of robot ? 
+a. Teaching Reproduction Robot  
+b.  Robot with sensation  
+c. Robots that will think  
+d. Intelligent robot  
+ 
+138.  For a matrix as shown in the figure below, what is the value of the determinant A?  
+                
+                           A=[123
+456
+789] 
+ 
+  a. 24 
+               b. 18  
+c. -24  
+d. 0 
+ 
+ 
+139.  Which of the following descriptions about Python program are correct? (Multiple 
+choice)  
+a. The program consists of modules  
+b.  Module contains statements  
+c.  Statement contains an expression  
+d.  Expressions create and process objects  
+ 
+140.  Which of the fo llowing is not MindSpore common Operation?  
+a.  signal  
+b. math  
+c. nn  
+d. array  
+ 
+141.  TensorFlow is Google's first generation of proprietary machine learning systems  
+a. True  
+b. False  
+ 
+142.  What are the core concepts in TensorFlow? (Multiple Choice)  
+a. Gridding  
+b. Calculation Chart  
+c. Dot Product  
+d. Tensor  
+ 
+143.  According to the American Society of Automotive Engineers (SAE) , which of the 
+following levels is t he automatic driving divided?  
+a. L1~L4  
+b. L1~L5  
+c. L0~L4  
+d. L0~L5  
+ 
+144.  The main computing resources included in the Da Vinci architecture computing unit 
+are?  
+a. Vector calculation unit  
+b. Scalar Computing Unit  
+c. Tensor computing unit  
+d. Matrix calculation unit  
+ 
+145.  Which of the following is not a way for the TensorFlow program to read data?  
+a. Preload data  
+b.  Feeding data  
+c.  Read from the file  
+d. Write a file format reader  
+ 
+146.  Which of the following statements about universal form recognition services are 
+correct?  
+a. rows represents the line information of a text block  
+b. colum ns represents the co lumn information of a text block  
+c. The incoming image data needs to go through base64 coding  
+d. words represent  text block recognition result  
+ 
+147.  Tensor is the data storage component of MindSpore .  
+a. TRUE  
+b. FALSE  
+ 
+148.  Training error will reduce the accuracy of the model and produce under -fitting. How 
+to improve the model fit? (Multiple choice)  
+a. Increase the amount of data  
+b. Feature Engineering  
+c. Reduce regularization parameters  
+d. Add features  
+ 
+149.  Which of the following compan ies first developed Tensor Flow ?  
+a. Oracle  
+b. Facebook  
+c. Nvidia  
+d. Google  
+ 
+150.  What is the role of keras.preprocessing in TensorFlow2.0 ? 
+a.  Data processing tools  
+b.  Built -in optimizer  
+c. Model deployment tool  
+d. Generative model tool  
+ 
+151.  Deep learning is a branch of machine le arning  
+a. True  
+b. False  
+ 
+152.  Which of t he following description s of machine learning is correct?  
+a.  Deep learning is a branch of machine learning  
+b.  Deep learning and machine learning are mutually inclusive  
+c.  Deep learning and machine learning are both artificial intelligence but have no  
+relationship to each other  
+d.  None of the above  
+ 
+153.  It is fine to pass in only one image when calling the face comparison service.  
+a.  TRUE  
+b.  FALSE  
+ 
+154.  L1 and  L2 Regularization are the  method s commonly used in traditional machine 
+learning to reduce generalization errors. Which of the following descriptions are correct?  
+a.  L1 Regularization can do feature selection  
+b. L1 and  L2 Regularization can be used for feature selection  
+c. L2 Regularizati on can do feature selection  
+d. L1 and L2 Regularization cannot be used for feature selection  
+ 
+155.  In the face search service, if we want to delete a certain face set, we can use this 
+code: firs_cliet.get_v2().get_face_set_service().delete_face_set("**"), where  "**" is to fill in 
+the actual face set name.  
+a. TRUE  
+b. FALSE  
+c.  
+ 
+156.  The word recognition in the speech recognition service refers to the synchronous 
+recognition of short speech. Upload the entire audio at once, and the recognition result will 
+be returned in the response.  
+a. True  
+b. False  
+ 
+157.  Which of the following neural network structures will share weights? (Multiple 
+choice)  
+a. Convolutional neural network  
+b. Recurrent neural network  
+c. Fully connected neural network  
+d. All of the above  
+ 
+158.  There are many types of agents according to different industrie s and application 
+scenarios. Currently, Huawei Cloud EI  has  : 
+a. Industrial Agent  
+b. Traffic Agent  
+c. Park Agent  
+d. Car intelligence  
+ 
+159.  How many spaces does PEP 8 stipulate that Python's first fine indentation needs to 
+indent?  
+a. 1 
+b. 2  
+c. 4  
+d. 8 
+ 
+160.  In what year did Huawei officially provide services in the form of cloud services, and 
+combined with more partners to provide richer artificial intelligence practices?  
+a. 2002  
+b. 2013  
+c. 2015  
+d. 2017  
+ 
+161.  Input a 32*32 Image  into a CNN with a convolution kernel of size  5*5, after 
+convolution calculation, the size of the output image is:   
+a. 28*23  
+b. 28*28  
+c. 29*29  
+d. 23*23  
+ 
+162.  Which of the following options is not the - session mode used by Tensorflow?  
+a.  Explicitly call the session to generate function  
+b.  Explicitly call the session to close function  
+c. Through the Python context manager  
+d. Multiple POST queries  
+ 
+163.  Which of the following is the function of HUAWEI HiAI Foundation module?  
+a. App integrated  
+b. Let the service actively find users  
+c. Quickly convert and migrate existing models  
+d. According to user needs, push services at the right time and at the right time  
+ 
+164.  Which of the following are the activation functions of deep learning algorithms?  
+a. Sigmoid  
+b. ReLU  
+c. Tanh  
+d. Sin  
+ 
+165.  Which of the following s tatements about Python are correct? (Multiple choice)  
+a. Invented in 1989 by the Dutch Guido van Rossum, the first public release was issued 
+in 1991.  
+b.  Python is purely free software and the source code follows the GPL (GNU General 
+Public License) protocol  
+c. Python syntax is simple and clean. One of the features is to force blank characters to 
+be used as statement indentation  
+d.  Python is often nicknamed glue language which can easily connect various modules 
+made in other languages  
+ 
+166.  In the Code model.fit(mnist.t rain.inmage,mnist.train.labels.epochs=5) , what does 
+the epochs parameter mean ?  
+a. The entire training set will be trained 5 times  
+b. The entire test set will be tested 5 times  
+c.  The entire training set will be divided into 6 share s 
+d.  The entire training set will be divided into 5 share s 
+ 
+167.  Which of the following are solutions for the Huawei Cloud El industry scenario? 
+(Multiple Choice)  
+a. Intelligent Logistics  
+b. Intelligent Water  
+c.  Intelligent transportation  
+d. Intelligent Finance  
+e. Intelligen t manufacturing   
+ 
+168.  When the voice recognition service is successfully called, which field is the 
+recognition result stored in?  
+a. result  
+b. content  
+c. data  
+d. text  
+ 
+169.  What are the commonly used kernel functions in  SVM ?  
+a. Gaussian kernel function  
+b. Polynomial kernel func tion  
+c. Sigmiod Kernel function  
+d. Linear kernel  
+ 
+170.  K Folding cross -validation refers to dividing the test data set into K sub-data sets.  
+a.  TRUE  
+b.  FALSE  
+ 
+171.  The Python dictionar y is widely identified by "{}", and the internal data consists of 
+the key and its corresponding value . 
+a. True  
+b. False  
+ 
+172.  Which of the following is not an application of image recognition services?  
+a. Target Detection  
+b. Smart photo album  
+c. Scene analysis  
+d. Speech synthesis  
+ 
+173.  About Bayesian formula  P(WlX)=P(XlW)*P(W)/P(X) , which is the correct description?  
+a.  P(WIX) is a prior probability  
+b.  P(XIW) is a conditional probability  
+c.  P(W) is the posterior probability  
+d.  P(X) is the posterior probability  
+ 
+174.  Which step is not part of the operation of a Python file object?  
+a. open  
+b. delete  
+c. read  
+d. write  
+e. close  
+ 
+175.  Among the following machine learning algorithms, which is not unsupervised 
+learning?  
+a.  Clustering  
+b.  Association rules  
+c. Xgboost  
+d. GMM  
+ 
+176.  Which description is wrong about the lambda function of the Python language?  
+a. Lambda is just an expression, and the function  body is much simpler than def.  
+b. The body of a lambda can be an expression or a block of code  
+c. The lambda function can access the parameters in the global namespace.  
+d. The lambda function accepts only one parameter valu e 
+ 
+177.  TensorFlow  is an end -to-end open source platform for machine learning and deep 
+learning.  
+a. TRUE  
+b. FALSE  
+ 
+178.  Deep learning algorithms can be divided into supervised learning and unsupervised 
+learning.  
+a. True  
+b. False  
+ 
+179.  Which of the following descriptions of Python module  is wrong ?  
+a. The Python module is a Python file that ends with “.py “ and contains Python object 
+definitions and Python statements.  
+b. The Python module allows you to logically organize your Python code snippets.  
+c.  Python modules can define functions classes and variables but the module does not 
+contain executable code  
+d.  Assigning relevant code to a module can make your code better and easier to 
+understand.  
+ 
+180.  Deep learning neural network training requires a lot of matrix calculations. 
+Generally, we need to use hardware to enable the computer to have parallel computing 
+capabilities. Which of the  following hardware devices can provide parallel computing 
+capabilities ? 
+a. Motherboard  
+b. RAM  
+c. GPU  
+d. CPU  
+ 
+181.  Artificial intelligence is a new technical science that studies and dev elops theories, 
+methods and application systems for simulating, extending and extending human 
+intelligence. It is one of the core research areas of machine learning.  
+a. True  
+b. False  
+  
+182.  Which of the following is not the difference between Python 2 and Python 3?  
+a. print  
+b. Unicode  
+c. import  
+d. xrange  
+ 
+183.  Grid search is a method of parameter adjustment.  
+a.  TRUE  
+b.  FALSE  
+ 
+184.  Huawei firmly believes that the value of Al is ultimately reflected in solving the 
+actual business problems of the enterprise. Therefore, Huawei is firmly com mitted to the 
+development of Al technology, focusing on domain solutions, focusing on basic technologies 
+and enabling platforms, and working with industry practice leaders to develop industry 
+solutions  
+a. True  
+b.  False  
+ 
+185.  In a neural network based on connection ism, each node can express a specific 
+meaning.  
+a. TRUE  
+b. FALSE  
+ 
+186.  Which  of the following  is not a Python operator?  
+a.  Arithmetic operator  
+b.  Reasoning operator  
+c.  Logical operator  
+d. Comparison operator  
+ 
+187.  The three stages of artificial intelligence include computational intelligence, (     ) , 
+Cognitive intelligence.  
+a.  Weak artificial intelligence  
+b.  Perceptual intelligence  
+c.  Behavioural  intelligence  
+d.  Strong artificial intelligence  
+ 
+188.  Which of the following options do not belong to the scope of Huawei's full -stack 
+solution ? 
+a. Application enable  
+b. Edge computing  
+c. Open source framework  
+d. Chip enable  
+ 
+189.  The trace operation returns the sum of the diagonal elements of the matrix. 
+Therefore, the trace of matrix A and its transposed matrix are equal . 
+a.  True  
+b.  False  
+ 
+190.  In TensorFlow, data is represented in the form of tensors and calculation charts.  
+a. True  
+b. False  
+ 
+191.  Global gradient descent algorithm, stochastic gradient descent algorithm and batch 
+gradient descent algorithm are all gradient descent algorithms. Which of t he following is 
+wrong about its advantages and disadvantages.  
+a.  The global gradient algorithm can find the minimum value of the loss function  
+b.  Batch gradient algorithm can solve the local minimum problem  
+c.  Stochastic gradient algorithm can find the minimum va lue of the loss function  
+d.  The convergence process of the global gradient algorithm is time -consuming  
+ 
+192.  What of the following values are empowered  by HUAWEI HiAI ? 
+a. Safety  
+b.  stable  
+c. real time  
+d. at any time  
+ 
+193.  Artificial intelligence is still in the weak artifici al intelligence stage.  
+a. TRUE  
+b. FALSE  
+ 
+194.  Which of the following are the elements of artificial intelligence? (Multiple choice)  
+a. Algorithm  
+b. Computing power  
+c. Data  
+d. Scene  
+ 
+195.  If a model has a large deviation on the test set and a small variance, it means that 
+the model?  
+a. Overfitting  
+b. May be overfitting may be underfitting  
+c. Just fit  
+d. Underfitting  
+ 
+196.  As shown below, which are the following matrix A characteristic value? (Multiple 
+choice)  
+             A= [3−1
+−13] 
+ 
+a. 2 
+b. -2 
+c. -4 
+d. 4 
+ 
+197.  Information theory is a branch of applied mathematics. The main research is to 
+quantify how much information a signal contains. Who is the first to propose information 
+theory?  
+a. Minsky  
+b. Turing  
+c. Simon  
+d.  Shannon  
+ 
+198.  Deep learning is different from machine learning and there are no unsupervised 
+algorithms  
+a. True  
+b. False  
+ 
+199.  Which of t he following descriptions about  the value k in  KNN Algorithm is correct?  
+a. The larger the value, the easier the model is to overfit  
+b. The large r the value, the smoother the segmentation surface of the classification  
+c. k Value is a hyperparameter  
+d. k Value can be set to 0  
+ 
+200.  Which of the following is not part of the deep learning development framework?  
+a. CNTK  
+b. Keras  
+c. SAFA  
+d.  MXNet  
+ 
+201.  Which of the followin g are the cloud services provided by Huawei Cloud El Visual 
+Cognition? (Multiple choice)  
+a. Text recognition  
+b. Face recognition  
+c. Image recognition  
+d. Content detection  
+e. Image processing  
+ 
+202.  Recurrent neural networks can capture dynamic information in serialized data.  
+a. TRUE  
+b. FALSE  
+ 
+203.  Which of the following are AI Subfield?  
+a. Machine learning  
+b. Computer vision  
+c. Speech Recognition  
+d.  Natural language processing  
+ 
+204.  From the perspective of technical architecture , the classification of  AI chips 
+includes?  
+a.  FPGA  
+b.  CPU  
+c.  GPU  
+d.  ASIC  
+ 
+205.  Which of the following aspects belong to Huawei's full stack AI solution?  
+a. Ascend  
+b. CANN  
+c. ModelArts  
+d. MindSpore  
+ 
+206.  There are multiple models of AI servers . Which is the  one based on the Kunpeng 
+processor platform ? 
+a. Atlas 800 model: 9000  
+b. Atlas 800 model: 3000  
+c.  Atlas 800 model: 3010  
+ 
+207.  Which of the following A I technolog ies can be integrated  into Huawei Cloud EI to 
+improve efficiency  and improve experience of application  sce narios  of all walks of life?  
+a.  EI Agent  
+b.  OBS Object storage service  
+c.  Cloud database  
+d.  EI Big data service  
+ 
+208.  In the gradient descent algorithm, which of the following algorithms is the most 
+confusing algorithm for the trajectory on the loss function surface?  
+a. SGD  
+b. BGD  
+c. MGD  
+d.  MBGD  
+ 
+209.  Which of the following activation functions are prone to vanishing gradient 
+problems?  
+a. ReLU  
+b.  Softplus  
+c. Tanh  
+d. Sigmoid  
+ 
+210.  Which is the correct description of the python function  creation ? (Multiple choice ) 
+a. The function starts with the “def ” keyword followed by the function name and 
+parentheses.  
+b. The parameters need to be placed in parentheses  
+c. The function content  starts with a colon and needs t o be indented  
+d.  Return the result with return and the function ends.  
+ 
+211.  Regarding backpropagatio n, which of  the following statement s is wrong?  
+a. Backpropagation can only be used in feedforward neural networks  
+b. Backpropagation passes through the activation function  
+c. Back propagation refers to the back propagation of errors through the network  
+d. Backpropag ation can be combined with gradient descent algorithm to update network 
+weights  
+ 
+212.  Which of the following neural networks is more suitable to solve image classification  
+problem?  
+a. sensor  
+b. Recurrent neural network  
+c. Convolutional Neural Network  
+d. Fully connected neural network  
+ 
+213.  tf.keras.datasets can be used to  view built -in data set  of keras.  
+a. True  
+b. False  
+ 
+214.  Which of the following about the dictionary in Python is correct? (Multiple Choice)  
+a. Each key and its corresponding value need to be separated by ":”  
+b. Separate the different key -value with “,” 
+c. The entire dictionary is included in the “{}”  
+d. The keys of the dictionary  are unique and the data type is uniform  
+ 
+215.  Principal Component Analysis (PCA) is a statistical method. A set of variables that 
+may be related t o each other is transformed into a set of linearly related variables by 
+orthogonal transformation . The converted set of variables is called the principal 
+component.  
+a. True  
+b.  False  
+ 
+216.  The number of hidden layers of the deep learning neural network has a certain 
+impact on the performance of the network. Which of t he following statement about its 
+impact is correct ? 
+a.  The number of hidden layers is appropriately reduced, and the resolution ability of the 
+neural network remains unchanged  
+b. With the appropriate increasing of the number of hidden layers appropriately, the 
+resolution ability of the neural network become stronger  
+c. If the number of hidden layers is appropriately reduced, the resolution ability of the 
+neural network is stronger.  
+d. If the number of hidden  layers increases appropriately , the resolution ability of the 
+neural network  become weaker  
+ 
+217.  Generative confrontation networks are currently widely use d. Which of t he 
+following scenarios can use this network?  
+a. Data enhancement  
+b. Semantic segmentation  
+c. Information retrieval  
+d. Image generation  
+ 
+218.  The Python language can use multiple statements on the same line, separated by 
+commas ".".  
+a. True  
+b.  False  
+ 
+219.  What are the application scenarios for the break statement in the Python language? 
+(Multiple Choice)  
+a. Any Pyt hon statement  
+b. while loop statement  
+c. for loop statement  
+d. Nested loop statement  
+ 
+220.  When we describe the house, we usually use the attributes such as residential area, 
+house type, decoration type, et c. If we use Naive Bayes as a model, we assume that there is 
+no relationship between attributes.  
+a. TRUE  
+b. FALSE  
+ 
+221.  A linear regression model with L1 regular term  is called a Lasso regression model.  
+a. True  
+b. False  
+ 
+222.  Which of the following statements  about neural networks is wrong?  
+a. As the number of hidden layers of the neural network increases, the classification 
+ability of the model gradually weakens  
+b. The limitation of a single -layer perceptron is that it cannot solve the XOR problem  
+c. The feedforward neural network can be represente d by a directed acyclic grap h 
+d. There is no connection between neurons in the same layer of the feedforward neural 
+network  
+ 
+223.  With Atlas300 (3000) , w hat conditions need to be checked when the accelerator 
+card server compiles and runs the program?  
+a.  Atlas Driver  Installation is carried out  
+b. CUDA Software package  is installed   
+c. Cmake Compilation tool is installed  
+d. Environment configuration  is completed  
+ 
+224.  The commonly used loss functions in deep learning are?  
+a.  L1 Loss function  
+b.  Mean square error loss function  
+c.  Cross entropy error loss function  
+d.  Self -declining loss function  
+ 
+225.  Among the following machine learning algorithms, which of the following is not 
+unsupervised learning?  
+a. GMM  
+b. Xgboost  
+c. Clustering  
+d. Association rules  
+ 
+226.  Loss function and model function are the same thing.  
+a.  TRUE  
+b.  FALSE  
+ 
+227.  Which of the following  is not the optimization method in deep learning?  
+a.  Random gradient descent  
+b.  Back propagation algorithm  
+c.  Principal component analysis  
+d.  Momentum  
+ 
+228.  Which tool does the HUAWEI HiAI platform support to integrat e with?  
+a.  Jupyter Notebook  
+b.  MyEclipse  
+c.  Android Studio  
+d. Spider  
+ 
+229.  Huawei Ascend AI Chip is one of the typical representative of NPU (Neural network 
+processor ). 
+a. True  
+b. False  
+ 
+230.  Python regular expressions are a special sequence of characters that makes it easy 
+to check if a string matches a pattern.  
+a. True  
+b. False  
+ 
+231.  Which of the following statements  about the image content review service  is 
+wrong ?  
+a. Test results for sensitive persons involved in politics  
+b. Test results for political violence  
+c. Represents confidence, range 0 -100  
+d. Label representing each test result   
+ 
+232.  In TensorFlow2.0 , the method can continue to be used.  
+a. TRUE  
+b.  FALSE  
+ 
+233.  The timestamps in the Python language are represented by how long (in seconds) 
+elapsed from midnight (epoch) on January 1, 1970  
+a. True  
+b. False  
+ 
+234.  Which of the following are the topics of speech processing research?  
+a.  Speech processing  
+b.  Voiceprint recognition  
+c. Speech Recognition  
+d. Wake up  
+ 
+235.  The TensorFlow framework does not support Windows systems.  
+a. True  
+b. False  
+ 
+236.  In the process of training the neural network, our goal is to keep the loss function 
+reduced. Which of the following methods do we usually use to mini mize the loss function?  
+a.  Gradient descent  
+b.  Dropout  
+c.  Cross -validation  
+d.  Regularization  
+ 
+237.  There can be more than one tag returned by image label service.  
+a. TRUE  
+b. FALSE  
+ 
+238.  Recurrent neural network is different from convolutional neural network . Which of 
+the following problems is better to be solved by RNN  
+a.  Sequence related issues  
+b.  Image classification  
+c.  Image detection  
+d.  Recommended question  
+ 
+239.  What are the numeric types of Python? (Multiple Choice)  
+a. int (integer type)  
+b. long (long integer type)  
+c. float (floating  point type)  
+d. complex (complex number type)  
+ 
+240.  What are the conditions for m row n column matrix A and p row q column matrix B 
+to be multiplied?  
+a. m=p , n=q  
+b. n=p  
+c. m=n  
+d. p=q  
+ 
+241.  Which of t he following statement s about recurrent neural networks is wrong?  
+a. Recurrent neural network can be unfolded according to the time axis  
+b. LSTM is unable to solve the problem of vanishing gradient  
+c. LSTM is also a recurrent neural network  
+d. Recurrent neural network can be abbreviated as RNN  
+ 
+242.  TensorFlow only supports Python and  R language  
+a.  True  
+b.  False  
+ 
+243.  Machine Learning Service is a data mining and analytics platform service that helps 
+users quickly discover data patterns and build predictive models through machine learning 
+techniques and deploy them as predictive analytics solut ions . 
+a. True  
+b. False  
+ 
+244.  Which of the following can optimization problem be classified according to the 
+constraints? (Multiple choice)  
+a. Equality constraints  
+b. Inequality constraints  
+c. Unconstrained conditions  
+d. Semi -constrained  conditions  
+ 
+245.  AI Chip is also called  AI Accelerators , which  are specially designed to handle a large 
+number of computing tasks in artificial intelligence applications functional module.  
+a. TRUE  
+b. FALSE  
+ 
+246.  Which of the following characterises  does not belong to TensorFlow 2.0?  
+a. Multi -core CPU acce lerate  
+b. distributed  
+c. multi -language  
+d. Multi -platform  
+ 
+247.  Functions are well -organized, non -reusable code segments used to implement a 
+single, or associated Function.  
+a. True  
+b. False  
+ 
+248.  Tensorflow is the second generation of artificial intelligence learning system 
+developed by Google based on ( ).  
+a. DistBelief  
+b. PaleyFunction  
+c. ConvexOne  
+d. Infinity  
+ 
+249.  Under the large -scale relationship analysis scenario, which of the following options 
+does not belong to the three high demands of massive relationship processing?  
+a. Efficient relationship discovery data for massive data  
+b. Efficient sharing of massive data  
+c. Efficient storage and access requirements for massive amounts of data  
+d. High scalability and high availability requirements for relational analysis platforms  
+ 
+250.  Which of the follo wing items are included in the results returned when the face 
+search service is successfully called?  
+a. Searched face similarity  
+b. Searched faces id  
+c. Searched face position  
+d. Searched face number  
+ 
+251.  Which of the following are AI Application areas?  
+a. Wisdom education  
+b. Smart City  
+c. Smart home  
+d. Smart medical  
+ 
+252.  Tensorflow supports multi -TPU cluster computing  
+a. True  
+b. False  
+ 
+253.  Which description is wrong about the hyperparameter?  
+a. Hyperparameters  are parameters that set values before the algorithm begins learning.  
+b. Most machine learning algorithms have hyperparameters.  
+c. Hyperparameters cannot be modified  
+d. The value of the hyperparameter is not learned by the algorithm itself.  
+ 
+254.  According to Huawei Cloud EI Intelligent platform, which of the following solutions 
+can be provided?  
+a. Crowd statistics program  
+b. Policy query scheme based on knowledge graph  
+c. Vehicle identification scheme  
+d.  Intrusion recognition scheme  
+ 
+ 
+255.  Which of the following is not an artific ial intelligence school?  
+a. Symbolism  
+b. Statisticism  
+c. Behaviourism   
+d. Connectionism  
+ 
+256.  The three  main advantages of Keras in TensorFlow 2.0  are:  
+a. The interface is user -friendly  
+b. Modular and combination  
+c. Easy to expand  
+d. None of the above  
+ 
+257.  Which of the following options is not a tensor attribute?  
+a. name (Logo)  
+b. shape (Dimensionality)  
+c. type (Type)  
+d.  node (Node)  
+ 
+258.  All convolution kernels of the same convolution layer in the convolutional neural 
+network are weight -sharing.  
+a.  TRUE  
+b.  FALSE  
+ 
+259.  Which of t he following statements about RNN Model is correct?  
+a. There is no one -to-one model structure  
+b. Do not consider the time direction when back propagating   
+c. There is no many -to-many model structure  
+d. There will be a problem of attenuation of long -term transmission and memory 
+information  
+ 
+260.  Which module does the face detection belong to  in the Huawei HiAI platform ?  
+a. HiAI Engine  
+b. HiAI Framework  
+c. HiAI Foundation  
+d. HiAI Service  
+ 
+261.  When training the DNN , we often encounter many problems . Which of the following 
+functions can be used to alleviate the problem  of vanishing gradient ?  
+a. Relu function  
+b. Sigmoid function  
+c. tanh function  
+d. Softsign function  
+ 
+262.  Which of the following statements about passport recognition services are correct?  
+a.  Country_ code:  represents the country where the passport was issued  
+b.  Nationality:  represents the nationality of representative holder  
+c. passport_number: represents passport number  
+d. confidence: Confidence information of related fields. The greater the confidence, the 
+higher the reliability of the corresponding field identified this time. In a statistical 
+sense, the greater the confidence, the higher the accuracy  
+ 
+263.  The determinant of square matrix A is a scalar.  
+a. True  
+b.  False  
+ 
+264.  When using keras of TensorFlow 2.0 to bu ild a neural network with an interface, the 
+network needs to be compiled. Which of the following methods should be used to compile ?  
+a. compile  
+b. write  
+c. join  
+d. fit 
+ 
+265.  X, Y are random variables, C is a constant,  which of  the nature of the difference in 
+the following options  is wrong? (Multiple choice)  
+a. D(C)= 0  
+b. D(X+Y)=D(X)+D(Y)  
+c. D(CX)=C'C'D()()  
+d. D(XY)=D(X)D (Y) 
+ 
+266.  Which of the following description s of expectations and variances is incorrect?  
+a.  Expectation reflects the average level of random variable values  
+b.  The variance reflects the degree of deviation between the random variable and its 
+mathematical expectation  
+c. Expectation and variance are both numerical characteristics of random variables  
+d. The greater the expectation the smaller the variance  
+ 
+267.  In the deep learning neural network, the perceptron is the simplest neural network. 
+The correct statement about its structure is:  
+a. There are only two hidden layers  
+b. Only one hidden layer  
+c. Its network us es Sigmoid Activation function  
+d. Its network uses Relu Activation function  
+ 
+268.  What is the most important difference between batch gradient descent, mini -batch 
+gradient descent, and stochastic gradient descent?  
+a. Gradient size  
+b. Gradient direction  
+c. Learning rate  
+d. Number of samples used  
+ 
+ 
+ 
+ 
+ 
+269.  According to the definition of information entropy , what is the bit entropy of 
+throwing a uniform coin?  
+a. 0 
+b. 0.5  
+c. 1  
+d. -1 
+ 
+270.  Which of the following is not features of the c MindSpore core architecture?  
+a.  Automatic differentiation  
+b.  Automatic tuning  
+c. Automatic coding  
+d. Automatic parallel  
+ 
+271.  Convolutional neural networks are more suitable for dealing with speech recognition 
+problems . 
+a. True  
+b.  False  
+  
+272.  In order for a machine to be intelligent, it must be knowledgeable. Therefore, there 
+is a re search field in artificial intelligence , which mainly studies how computers 
+automatically acquire knowledge and skills to achieve self -improvement.  What is the branch 
+of this research called?  
+a.  Expert system  
+b.  Machine learning  
+c.  Neural Network  
+d.  Natural langu age processing  
+ 
+273.  Which of the following attributes is common in Ascend 310 and Shengteng 910 ?  
+a. Maximum power  
+b. Architecture  
+c. Integer precision  
+d. 7nm Process  
+ 
+274.  What are the algorithms supported by Tensorflow? (Multiple Choice ) 
+a.  GNN  
+b.  ZNN  
+c.  RNN  
+d.   HUT  
+ 
+275.  Where should the labelled data be placed in the Generative Adver sarial  Network?  
+a.  As the output value of the generated model  
+b.  As the input value of the discriminant model  
+c.  As the output value of the discriminant model  
+d.  As input value for generative model  
+ 
+276.  Whi ch of the following description is wrong about the image recognition cloud 
+service?  
+a.  The service identifies specific objects such as skyscrapers, buildings, and ships.  
+b. The service can also identify the sea, city, port and other scenes.  
+c.  The service can pe rform semantic analysis on the content in the image to extract labels 
+with specific abstract meanings  
+d. The service can provide object and scene labels and can also provide more conceptual 
+labels.  
+ 
+277.  Which of the following is not a specific technology of arti ficial intelligence?  
+a. Knowledge map  
+b. Machine translation  
+c. Riemann geometry  
+d. Semantic understanding  
+ 
+278.  HiAI Mobile computing platform provides rich upper -level functional services API, 
+which c an run efficiently on mobile devices.  
+a. TRUE  
+b.  FALSE  
+ 
+279.  In the deep learning network, the backpropagation algorithm is used to find the 
+optimal parameters. What rules are used in the backpropagation algorithm to obtain the 
+derivation layer by layer?  
+a. Chain rule  
+b. Cumulative rule  
+c. Law of reciprocity  
+d. Rule of Norm alization  
+ 
+280.  Which of the following descriptions about the Recurrent Neural Network (RNN) is 
+correct?  
+a. Can be used to process sequence data.  
+b. Cannot process variable length sequence data.  
+c. Unlike convolutional neural networks , parameters of RNN cannot be shared  
+d. The units above the hidden layer are not associated with each other.  
+ 
+281.  Which of the following capabilities does the genetic knowledge map have?  
+a. Auxiliary case diagnosis  
+b. Disease prediction and diagnosis  
+c. Gene test report generation  
+d. Entity query  
+ 
+282.  What research areas does artificial intelligence have? (Multiple choice)  
+a. Natural language processing  
+b. Computer Vision  
+c. Machine learning  
+d. Speech recognition  
+ 
+283.  The Python language can use the "#" at the beginning of  a single line of code f or 
+comments .  
+a. True  
+b. False  
+ 
+284.  When the universal text recognition service is successfully called, the returned text 
+recognition result is stored in which of the following fields?  
+a. text  
+b. result  
+c. content  
+d. words  
+ 
+285.  The following options bel ong to keras under estimator .  The encapsulation methods 
+are?  
+a. Assessment  
+b. training  
+c. prediction  
+d. Output model  
+ 
+286.  What are the regularizations in deep learning? (Multiple Choice)  
+a.  L1 norm, L2 norm  
+b.  Dataset enhancement  
+c.  Integration method  
+d.  Dropout  
+ 
+287.  Which of the following description about Python regular expression is not correct?  
+a. Python has added th ree  regular expression module since version 1.5.  
+b. Regular expression module gives the Python language all the regular expression 
+functionality.  
+c. Regular expressions are powerful tools for working with strings.  
+d. Regular expressions can only process string data not numeric data  
+ 
+288.  The for loop statement in the Python language can iterate th rough the items in any 
+sequence . 
+a.  True  
+b.  False  
+ 
+289.  The following applicati ons that are not part of the adversarial generation network 
+are?  
+a. Text generation  
+b. Image generation  
+c. Image Identification  
+d. Data enhancement  
+ 
+290.  Regarding the face search service, which of the following statements are correct?  
+a. When there is no face set, you need to create a face set first, then add face data, and 
+then search  
+b. The size of a face set cannot exceed 10000 Pictures  
+c.  There is a dedicated interface to delete the specified face set  
+d.  There is a dedicated interface to delete the face data in a certain face set  
+ 
+291.  GPU  is g ood at computationally intensive and easy to parallel programs.  
+a. TRUE  
+b. FALSE  
+ 
+292.  Which of the following options may be used in calling Huawei cloud services?  
+a. ak  
+b. region  
+c. pro ject_id  
+d.  sk 
+ 
+293.  The matrix produced by the exchange of matrix A rows and columns is called th e 
+transpose of A . What are the correct properties of matrix transposition? (Multiple Choice)  
+a. (AT ) T = A  
+b. (A+ B) T = AT +BT  
+c. (!EA) T = !EAT  
+d.  (AB ) T = AT +BT  
+ 
+294.  The activation function plays an important role in the neural network model learning 
+and understanding of very complex problems. Which of the following statement s about the 
+activation function is correct.  
+a. Activation functions are linear functions  
+b. Activat ion functions are non -linear functions  
+c. The activation function is partly a nonlinear function, partly a linear function  
+d. Most of the activation functions are nonlinear functions, and a few are linear functions  
+ 
+295.  Which of the following is not included in th e recurrent neural network application  
+scenario?  
+a. Machine translation  
+b. Speech recognition  
+c.  Image style migration  
+d.  Text generation  
+ 
+296.  Which of the following options is not a reason for traditional machine learning 
+algorithms to  promote the development of deep  learning?  
+a. Dimensional disaster  
+b.  local invariance and smooth regularization  
+c.  Manifold learning  
+d.  Feature Engineering  
+ 
+297.  Which of the following is not a face recognition technology?  
+a.  Face search  
+b.  Face comparison  
+c.  Face detection  
+d.  Remake recognition  
+298.  Which of the following evaluation indicators belong s to the regression algorithm?  
+a.   Recall rate  
+b.   Confusion matrix  
+c.  Mean square error  
+d.   Accuracy  
+ 
+299.  Which of the following is an image label service URI?  
+a. /v1.0/image/recognition  
+b.  /v1.0/image/celebrity -recog nition  
+c. /v1.0/image/recapture -detect  
+d. /v1.0/image/tagging  
+ 
+300.  What are the Python language data types? (Multiple Choice)  
+a.  numbers  
+b.  String  
+c.  list  
+d. tuple  
+e. dictionary  
+ 
+301.  Which of the following data types does Tensorflow not support?  
+a. int8  
+b. float32  
+c. double64  
+d. bool ean  
+ 
+302.  Which of the following is not a module in the Tensorflow library?  
+a.  tf.nn  
+b. tf. layers  
+c. tf boost  
+d.  tf.contrib  
+ 
+303.  Which is wrong with the Python module time introduction method?  
+a. import time  
+b. from time import *  
+c. import time as t  
+d. from time  
+ 
+304.  Which company l aunched Pytorch  first?  
+a. Baidu  
+b. Google  
+c. Facebook  
+d. Huawei  
+ 
+305.  What processor is used for  Altas AI  inference?  
+a. Different 910 processor  
+b. Different 310 processor  
+c.  GPU  
+d.  FPGA  
+ 
+306.  Which of the following options is not part of the  Tensorflow build process?  
+a. Building a calculation chart  
+b. Input tensor  
+c.  Generate a session  
+d.  Update weights  
+ 
+307.  The fitted surface of linear regression in the dimension above 3 is:  
+a. Curved surface  
+b. Flat  
+c. Hyperplane  
+d. Hypersurface  
+ 
+308.  Which of the following products is related to artificial intelligence? (Multiple Choice)  
+a. Alpha Go  
+b. Self -driving  
+c. Voice input  
+d.  Huawei Mate mobile phone  
+ 
+309.  Which of the following operators is not supported in TensorFlow 2.0?  
+a. pow  
+b.  @  
+c. ^  
+d. // 
+ 
+310.  Which of the  attri butes for dimensional transformation are  not supported in 
+TensorFlow2.0?  
+a. squeeze  
+b. reshape  
+c. gather  
+d. transpose  
+ 
+311.  Which of the following options is not supported in TensorFLow2.0 for dimensional 
+transformation  
+a.   squeeze  
+b.   reshape  
+c.   gather  
+d.   Transpose  
+ 
+312.  Which descriptions are correct about python's index? (Multiple Choice)  
+a.  Index from left to right defaults from 0  
+b.  Index from left to right defaults from 1  
+c.  Index from right lo left defaults from -1  
+d.  Index from right to left defaults from 0  
+ 
+313.  The following code  is used when compiling the model:model.compile  
+(optimizer='Adam,loss='categorical.crossentropy',metrics=[tf.keras.metri cs.accuracy]) . 
+Which of the following indicators will be output  when the metho d evaluate is used to 
+evaluates the model ?  
+a.  accuracy  
+b.  cat egorical_ loss  
+c.  loss  
+d.  categorical accuracy  
+ 
+314.  Which of the following basic platform services are included in Huawei Cloud El 
+Enterprise Intelligence? (Multiple Choice)  
+a.  Machine learning  
+b.  Deep learning  
+c. Graph engine  
+d. Batch processing  
+ 
+315.  Which of the following operating systems  does not support TensorFlow?   
+a. Linux  
+b. Mac OS  
+c. Docker  
+d. OpenStack  
+ 
+316.  The Python language does not allow embedding another loop body in a loop body .  
+a. True  
+b. False  
+ 
+317.  An e -commerce company has always had problems with official website stalls, poor 
+utilization of network resources, and difficulty in operation and maintenance. Which of the 
+following EI services can the company use?  
+a. Park Agent  
+b. Traffic Agent  
+c. Network Agent  
+d. Industrial Agent  
+ 
+318.  Artificial intelligence is current ly suitable for scenarios with a known environment, 
+clear obj ectives, and predictable action . Deep learning is used in the fields of image 
+recognition, speech recognition, translation, etc.  Artificial Intelligence basically has human 
+recognition ability, even surpassing human beings.  Based on these capabilities. It has been 
+applied to many scenes such as medical care and public safety. However, there is still a lack 
+of reasoning and cognition.  
+a.  True  
+b.  False  
+ 
+319.  Regularization is an important and effective technique for reducing generalization 
+errors in traditional machine learning. Which of the  following techniques are regular ?  
+a.  L1 Regularization  
+b.  L2 Regularization  
+c.  Dropout  
+d. Momentum optimizer  
+ 
+320.  The mechanism o f graphs and conversations has been cancelled in  TensorFlow2.0.  
+a. TRUE  
+b. FALSE  
+ 
+321.  What are the common types of dirty data?  
+a. Malformed value  
+b. Duplicate value  
+c. Logically wrong value  
+d. Missing value  
+ 
+322.  Which is not a deep learning algorithm?  
+a.  Generative Adversarial Network  
+b.  Convolutional neural networks  
+c.  Recurrent neural networks  
+d.  Support vector machine  
+ 
+323.  In TensorF1ow2.0, w hich of the following methods can be used to check if it is a 
+tensor?  
+a. dtype  
+b. isinstance  
+c. is_tensor  
+d. device  
+ 
+324.  If scalar k  is multiplied by matrix A, the result equals to each of the numbers in A  is 
+multiplied by k .  
+a. True  
+b. False  
+ 
+325.  Feature is the dimension that describes the characteristics of the sample. Regarding 
+its interpretability in traditional machine learning and deep learning, which of the following 
+statement is correct?  
+a. Features are interpretable in traditional machine learning, but weak in deep learning  
+b. Features are weak in traditional machine learning, but strong in deep learning  
+c. Features are weak in interpretabili ty in traditional machine learning and deep learning  
+d. Features are interpretable in traditional machine learning and deep learning  
+ 
+326.  Which of the following features does Python support? (Multiple choice)  
+a. inheritance  
+b. Heavy load  
+c. Derived  
+d. Multiple inheritance  
+ 
+ 
+327.  What of the following networks belong to convolutional neural network (CNN)? 
+(Multiple Choice)  
+a. VGGNet  
+b. ResNet  
+c. AlexNet  
+d. GoogleNet  
+ 
+328.  Cyclic  neural networks are more suitable for dealing with image recognition 
+problems.  
+a. True  
+b. False  
+ 
+329.  Which of t he following does the convolutional neural network structure not include?  
+a. Convolutional layer  
+b. Pooling layer  
+c. Loop layer  
+d. Fully connected layer  
+ 
+330.  Regarding the convolutional neural network pooling layer,  which of  the f ollowing 
+description is correct ?  
+a. Pooling operation is realized by scanning window  
+b. The pooling layer can play a role in dimensionality reduction  
+c.  Commonly used pooling methods include maximum pooling and average pooling  
+d.  The pooled feature image becomes smaller  
+ 
+331.  What is wrong description of backpropagation?  
+a. The learning process o f the backpropagation algorithm consists of a forward 
+propagation process and a back -propagation process.  
+b.  The backpropagation algorithm is a learning algorithm suitable for multi -layer neural 
+networks, which is b ased on the gradient descent method  
+c. The backpropagation phase sends training inputs to the network to obtain an stimuli 
+response  
+d. The backpropagation process will repeat until the response of the network to the input 
+reaches the predetermined target range . 
+ 
+332.  Which of the following statements are correct about the difference between 
+machine learning algorithms and traditional rule -based methods?  
+a. Traditional rule -based methods, in which the rules can be explicitly clarified manually  
+b. Traditional rule -based me thods use explicit programming to solve problems  
+c. The mapping relationship of the model in machine learning is automatically learned  
+d. The mapping relationship of the model in the machine learning institute must be 
+implicit  
+ 
+333.  Regarding backpropagation, which of the following statements is wrong?  
+a. Backpropagation can only be used in feedforward neural networks  
+b. Backpropagation can be combined with gradient descent algorithm to update network 
+weights  
+c. Backpropagation passes throu gh the activation function  
+d. Back propagation refers to the back propagation of errors through the network  
+ 
+334.  The image data of the passport recognition service is needed to be base64 Coded.  
+a. True  
+b. Fals e 
+ 
+335.  When dealing with actual situations as below, when shoul d machine learning be 
+used?  
+a. The data distribution itself changes over time, requiring continuous re -adaptation of 
+the program, such as predicting the trend of merchandise sales  
+b. The complexity of the rules is low, and the problem is small  
+c. Task rules will change over time, such as defect detection on the production line  
+d. The rules are very complicated or cannot be described, such as face recognition and 
+voice recognition  
+ 
+336.  The Python list can be identified by '[]", and the default index of the first element 
+from left to right is 1.  
+a. True  
+b. False  
+ 
+337.  Which command can be checked whether the accelerator card is in place in  Atlas 
+300 (3000) ?  
+a. 1spci | grep'npu'  
+b. 1spci | grep'd100'  
+c. 1spci grep'atlas'  
+d. atlas info  
+ 
+338.  Which of the following steps in deep learning are automatically completed by the 
+model?  
+a. Model training  
+b. Feature selection  
+c. Analysis and positioning task  
+d. Feature extraction  
+ 
+339.  HUAWEI CLOUD EI enable more use of AI And big dat a services to accelerate 
+business development and benefit society. Which of the following areas can benefit from 
+using HUAWEI CLOUD EI service?  
+a. Industry data  
+b. Industry wisdom  
+c. algorithm  
+d. Computing power  
+ 
+340.  In a neural network, knowing the weight and deviations of each neuron is the most 
+important step. If you know the exact weights and deviations of neurons in some way, you 
+can  approximate any function. What is the best way to achieve this?  
+a.  Random assignment, pray that they are correct  
+b. Search for a combin ation of weight and deviation until the best value is obtained  
+c. Assign an initial value to iteratively update weight by checking the difference 
+between the best value and the initial  
+d. The above is not correct  
+ 
+341.  What are the commonly used gradient desc ent optimization functions? (Multiple 
+Choice)  
+a. Random gradient descent  
+b. Adadelta  
+c. Adagrad  
+d. momentum  
+e. RMSProp  
+ 
+342.  Huawei Machine learning Service MLS is a one -stop platform that supports the 
+entire process of data analysis. Which of the following is not a fea ture of MLS?  
+a. A rich library of machine learning algorithms.  
+b. Machine learning program is intuitive and easy to use.  
+c. Distributed and scalable big data computing engine.  
+d. Support for the R language but does not support the Python language  
+ 
+343.  When comparing G BDT with the random forest algorithm, which of the following 
+statements is wrong?  
+a. GBDT Algorithm is easier to underfit than random forest  
+b. Random forest is calculated in parallel, while GBDT Can't  
+c. GBDT Algorithm is easier to overfit than random forest  
+d. GBDT And random forest are built on CART Based on the tree  
+ 
+344.  What  are the results returned by if conditional statements in the Python language? 
+(Multiple choice)  
+a. True  
+b. 0  
+c. FALSE  
+d. Null 
+ 
+345.  CPUs improve AI performance  mainly through increasing instructions, increasing the 
+number of cores, etc .  
+a. TRUE  
+b. FALSE  
+ 
+346.  The time interv al in the Python language is a fl oating -point fraction in seconds  
+a. True  
+b.  False  
+ 
+347.  Self -encoder is an unsupervised learning algorithm  
+a. True  
+b. False  
+ 
+348.  Among the machine learning algorithms, which of the following is not an integrated 
+learning strategy?  
+a. Boosting  
+b. Stacking  
+c. Bagging  
+d. Marking  
+ 
+349.  AI Chips used in business applications can be classified as  
+a. training  
+b. GPU  
+c. Model building  
+d. Reasoning  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
